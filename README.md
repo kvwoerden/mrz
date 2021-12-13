@@ -5,7 +5,7 @@
 # References
 
 - [Arlazarov et al. - MIDV-500: A Dataset for Identity Documents Analysis and Recognition on Mobile Devices in Video Stream](https://arxiv.org/abs/1807.05786)
-- [fcakyon/midv500: Download and convert MIDV-500 annotations to COCO instance segmentation format](https://github.com/fcakyon/midv500
+- [fcakyon/midv500: Download and convert MIDV-500 annotations to COCO instance segmentation format](https://github.com/fcakyon/midv500)
 - [qubvel/segmentation_models](https://github.com/qubvel/segmentation_models): Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
